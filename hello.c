@@ -1,4 +1,10 @@
 /**
+ * Names: Andrew Duweling and Nicholas Wayman
+ *
+ * Huskers emails: aduweling2@huskers.unl.edu and nwayman2@huskers.unl.edu
+ *
+ * Date: 2022/08/27
+ *
  * Basic Hello World Program
  */
 #include <stdlib.h>
