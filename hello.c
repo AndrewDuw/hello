@@ -1,5 +1,5 @@
 /**
- * Names: Andrew Duweling and Nicholas Wayman
+ * Names: Nicholas Wayman and Andrew Duweling
  *
  * Huskers emails: aduweling2@huskers.unl.edu and nwayman2@huskers.unl.edu
  *
